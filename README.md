@@ -1,2 +1,3 @@
-##Exercise
-Rewrite the function using Class syntax
+# Exercise
+
+Rewrite the *template.js* function using Class syntax
